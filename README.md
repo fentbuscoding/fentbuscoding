@@ -1,2 +1,2 @@
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=schoolbusgaming)]
+[![ME' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=schoolbusgaming)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fentbuscoding)
