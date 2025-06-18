@@ -32,23 +32,11 @@ just your average code monkey doing code monkey things 🐒
 
 *yes, i code at 3am. no, i don't regret it.*
 
-## current vibe check ✨
-
-```javascript
-const me = {
-  mood: "caffeinated",
-  status: "debugging someone else's code",
-  thoughts: "why didn't this work yesterday??",
-  musicPlaying: "lofi hip hop radio 24/7",
-  snackLevel: "dangerously low"
-}
-```
 
 ## hit me up if you want 📱
 
-- 💬 discord: probably gaming
-- 📧 email: if it's not urgent, it can wait
-- 🐦 twitter: mostly memes and hot takes
+- 💬 discord: makingartformoney
+- 🐦 twitter: fentbusgaming
 
 ## random facts about me 🎲
 - i name my variables after food items sometimes
