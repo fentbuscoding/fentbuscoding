@@ -2,6 +2,8 @@
 
 just your average code monkey doing code monkey things 🐒
 
+---
+
 ## what i'm up to rn
 - 🎯 building some cool stuff (probably breaking it too lol)
 - 🧠 learning whatever catches my fancy this week
@@ -9,6 +11,7 @@ just your average code monkey doing code monkey things 🐒
 - 🍕 surviving on pizza and energy drinks
 - 💭 probably overthinking simple problems
 
+---
 
 ## my toolbox 🧰
 *aka the stuff i pretend to know*
@@ -22,6 +25,8 @@ just your average code monkey doing code monkey things 🐒
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
+
 ## the numbers game 📊
 *because apparently stats matter*
 
@@ -29,17 +34,22 @@ just your average code monkey doing code monkey things 🐒
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fentbuscoding&layout=compact&theme=tokyonight&hide_border=true)
 
+---
+
 ## my coding habits exposed 📈
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=schoolbusgaming&theme=tokyonight&hide_border=true)
 
 *yes, i code at 3am. no, i don't regret it.*
 
+---
 
 ## hit me up if you want 📱
 
 - 💬 discord: makingartformoney
 - 🐦 twitter: fentbusgaming
+
+---
 
 ## random facts about me 🎲
 - i name my variables after food items sometimes
@@ -54,6 +64,6 @@ just your average code monkey doing code monkey things 🐒
 
 *thanks for stopping by! now go touch some grass* 🌱
 
-![Profile Views](https://komarev.com/ghpvc/?username=fentbuscoding&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=fentbuscoding&color=black&style=flat-square)
 
 </div>
