@@ -64,6 +64,6 @@ just your average code monkey doing code monkey things 🐒
 
 *thanks for stopping by! now go touch some grass* 🌱
 
-![Profile Views](https://komarev.com/ghpvc/?username=fentbuscoding&color=black&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=fentbuscoding&color=grey&style=flat-square)
 
 </div>
